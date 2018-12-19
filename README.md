@@ -1,5 +1,6 @@
-# RLTF: Reinforcement Learning in TensorFlow
+# Information-Directed Exploration for Deep Reinforcement Learning
 
-Stable reproduction of standard RL algorithms.
+This repo contains the code for
+_Information-Directed Exploration for Deep Reinforcement Learning, Nikolov et. al., 2018_
 
 Implementation coming soon.

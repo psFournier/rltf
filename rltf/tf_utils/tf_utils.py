@@ -81,7 +81,7 @@ def normalize(x, training, momentum=0.0):
   return x
 
 
-def preprocess_input(x, norm=True, training=None, momentum=0.0):
+def preprocess_input(x, norm=False, training=None, momentum=0.0):
   """Preprocess input observations by optionally normalizing them.
   Args:
     x: tf.Tensor. Input tensor. When image observations, `shape.ndims` must be `4` and dtype must be
